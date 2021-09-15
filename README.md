@@ -17,3 +17,8 @@ Pensando em proporcionar a melhor experiência ao usuário que utilize a platafo
 > - Substituir cor de fundo padrão e adicionar
 > - Aplicar box-shadow em todos os cards e posters no sites
 > - :hover Alterar cor da borda e aumentar efeito de sombra nos cards.
+
+
+## Media Queries ##
+
+Implementação dos efeitos dos estilos e efeitos do CSS principal para dispositivos com resolução inferior a 720px.

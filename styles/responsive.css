@@ -4,7 +4,18 @@
          flex-direction: column;
      }
 
-     .botao {
-         margin-top: 5px;
+     .titulo {
+         font-size: 36px;
      }
+
+     .descricao {
+         font-size: 13.5px;
+         width: 70%;
+         margin-top: 3px;
+     }
+     
+     .botao {
+         margin-top: 3px;
+    }
 }
+
